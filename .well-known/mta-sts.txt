@@ -1,4 +1,4 @@
 version: STSv1
 mode: testing
-mx: rhconsultancy-nl.mail.protection.outlook.com
+mx: rhconsultancy-nl.e-v1.mx.microsoft
 max_age: 86400
